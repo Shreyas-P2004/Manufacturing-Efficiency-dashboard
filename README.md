@@ -7,3 +7,13 @@ and prescribe actions to improve efficiency. For predictive analytics derive act
 # Dataset Used
 <a href="Manufacturing_Efficiency_Analytics_1000_with_PPH.xlsx">Dataset</a>
 
+# Questions (KPI)
+A manufacturing plant operates three machines (M01, M02, M03) across three shifts (Morning, 
+Evening, Night). The management has observed: 
+• Rising defect rates  
+• Frequent machine failures  
+• Inefficient downtime management
+Attached the manufacturing downtime chart interaction.
+Charts interaction
+
+
