@@ -17,6 +17,8 @@ Attached the manufacturing downtime chart interaction.
 Graphs interaction
 <a href="Machine1 defect rate.png"> Graph 1 </a>
 <a href="Machine 2 defect rate forecast.png"> Graph 2 </a>
+<a href="Machine 3 defect rate forecast.png"> Graph 3 </a>
+
 
 
 
