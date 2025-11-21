@@ -14,6 +14,7 @@ Evening, Night). The management has observed:
 • Frequent machine failures  
 • Inefficient downtime management
 Attached the manufacturing downtime chart interaction.
-Charts interaction
+Graphs interaction
+<a href="Machine1 defect rate.png"> Graph 1 </a>
 
 
