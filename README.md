@@ -16,5 +16,7 @@ Evening, Night). The management has observed:
 Attached the manufacturing downtime chart interaction.
 Graphs interaction
 <a href="Machine1 defect rate.png"> Graph 1 </a>
+<a href="Machine 2 defect rate forecast.png"> Graph 2 </a>
+
 
 
