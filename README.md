@@ -20,6 +20,7 @@ Graphs interaction
 <a href="Machine 3 defect rate forecast.png"> Graph 3 </a>
 <a href="Machine 1 downtime forecast.png"> Graph 4 </a>
 <a href="Machine 2 downtime forecast.png"> Graph 5</a>
+<a href="Machine 3 downtime forecast.png"> Graph 6</a>
 
 
 
